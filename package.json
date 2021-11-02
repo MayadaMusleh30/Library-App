@@ -1,7 +1,9 @@
 {
   "name": "library",
   "version": "0.1.0",
-  "node": "16.10.0",
+  "engines": {
+    "node": "16.10.0"
+  },
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
